@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora Salarial Pro",
+  "description": "Uma aplicação web moderna para cálculo detalhado de remuneração variável, incluindo comissões, periculosidade e horas extras, com visualização gráfica.",
+  "requestFramePermissions": []
+}
